@@ -17,7 +17,7 @@ This project was developed during my vacation to create a quiz app based on ques
 Created on Figma for layout and flow visualization: https://www.figma.com/community/file/1460835782816545775/projeto-quiz
 
 # Access Quiz App Online
-Test your knowledge! Access Quiz App online: https://projeto-quiz.onrender.com/
+Test your knowledge! Access Quiz App online: https://learnify-quiz-game.onrender.com/
 
 # Run Project Locally
 1. Clone repository:
