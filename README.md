@@ -13,9 +13,6 @@ This project was developed during my vacation to create a quiz app based on ques
 - *Correct/Incorrect Answers*: Correct answers highlighted green, incorrect red
 - *Responsive Interface*: Adaptive design for different screen sizes
 
-# Prototype
-Created on Figma for layout and flow visualization: https://www.figma.com/community/file/1460835782816545775/projeto-quiz
-
 # Access Quiz App Online
 Test your knowledge! Access Quiz App online: https://learnify-quiz-game.onrender.com/
 
